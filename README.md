@@ -16,8 +16,8 @@ PROJETO GATRY CLONE
 Execute o comando npm install (ou yarn install se vc utiliza o yarn) no terminal para a pasta 'gatry-api' para instalar as dependências da API.
 Execute o comando npm install (ou yarn install se vc utiliza o yarn) no terminal para a pasta 'web' para instalar as dependências do front.
 
-Após a instalação execute o comando npm start na pasta 'gatry-api'.
-E em uma outra janela do terminal execute o comando npm start na pasta 'web'.
+Após a instalação execute o comando npm (ou yarn) start na pasta 'gatry-api'.
+E em uma outra janela do terminal execute o comando npm (ou yarn) start na pasta 'web'.
 
 O front-end está rodando na porta 3000, e pode ser acessado no seu navegador através da URL:
 http://localhost:3000
