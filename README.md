@@ -5,7 +5,7 @@ PROJETO GATRY CLONE
     Versãdo do ReactJS: 17.0.2
     PORTA: 3000
 
-## JSON server fake API = Pasta "gatry-clone"
+## JSON server fake API = Pasta "gatry-api"
     Versão do Node: 16.14.0
     Versão do JSON server: 0.16.1
     PORTA: 5000
