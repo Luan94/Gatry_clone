@@ -13,8 +13,8 @@ PROJETO GATRY CLONE
 ## COMO EXECUTAR
 É preciso a instalação do NodeJS na versão: 16.14.0 para a execução desse projeto, caso sua versão seja diferente utilize o nvm para utilizar uma versão alternativa do node para utlizar neste projeto
 
-Execute o comando npm install (ou yarn install se vc utiliza o yarn) no terminal para a pasta 'gatry-api' para instalar as dependências da API
-Execute o comando npm install (ou yarn install se vc utiliza o yarn) no terminal para a pasta 'web' para instalar as dependências do front
+Execute o comando npm install (ou yarn install se vc utiliza o yarn) no terminal para a pasta 'gatry-api' para instalar as dependências da API.
+Execute o comando npm install (ou yarn install se vc utiliza o yarn) no terminal para a pasta 'web' para instalar as dependências do front.
 
 Após a instalação execute o comando npm start na pasta 'gatry-api'.
 E em uma outra janela do terminal execute o comando npm start na pasta 'web'.
